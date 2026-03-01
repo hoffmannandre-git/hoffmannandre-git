@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
+- 🤖 Interested in AI-assisted development and local LLM tooling
+
 - 📫 How to reach me **hoffmannandre324@gmail.com**
 
 - ⚡ Fun fact **I am a volunteer Firefighter**
